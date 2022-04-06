@@ -171,7 +171,7 @@ while(True):
 
             
 
-            
+opinion_usuario = input("ayudenos a mejorar, deja tu comentario: ")
 print("Fin del programa...")
 
 
